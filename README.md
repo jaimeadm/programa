@@ -15,22 +15,6 @@ Avoid bumping version numbers or correcting spelling errors along with your chan
 Feel free to make these sorts of corrections in a separate PR, though!
 Building from Source
 
-Execute the following command:
-
-git clone https://github.com/psi-probe/psi-probe
-This will create directory called psi-probe. Subsequent steps will refer to this as "your PSI Probe base directory."
-
-Download and install Maven 3.
-
-You may download it from the Apache Maven website.
-
-Run Maven.
-
-Execute the following command from your PSI Probe base directory:
-
-mvn package
-This will create a deployable file at web/target/probe.war.
-
 User Groups
 
 Announcements
